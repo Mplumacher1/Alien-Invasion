@@ -17,6 +17,7 @@
 - [Pygame](https://www.pygame.org/news)
 
 ## How to Play
+- Run the alien_invasion file once all the files are downloaded.
 - Use the arrow keys to move your ship left and right.
 - Press the spacebar to shoot lasers and destroy the aliens.
 - Avoid getting hit by alien projectiles or colliding with aliens.
